@@ -13,7 +13,7 @@ const Index = () => {
         onCategoryChange={setSelectedCategory}
         onTypeChange={setSelectedType}
       />
-      <main>
+      <main>Hello World
         <ProjectGrid
           selectedCategory={selectedCategory}
           selectedType={selectedType}
